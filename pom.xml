@@ -5,12 +5,13 @@
     <groupId>com.springboot.example</groupId>
     <artifactId>spring-boot-group</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-actuator</name>
+    <name>spring-boot-group</name>
     <packaging>pom</packaging>
 
 
     <modules>
         <module>spring-boot-actuator</module>
+        <module>springboot-event-demo</module>
     </modules>
 
 </project>
